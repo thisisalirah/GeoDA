@@ -2,6 +2,10 @@
 
 This repository contains the official PyTorch implementation of SparseFool algorithm described in [1]. GeoDA is a Black-box attack to generate adversarial example for image classifiers which is presented in the following paper:
 
+We show a few examples here on the performance of GeoDA:  
+
+<img src = 'https://pbs.twimg.com/media/DengXkCWAAADnUN.jpg:large' width='800px' />
+
 
 ## Requirements
 
