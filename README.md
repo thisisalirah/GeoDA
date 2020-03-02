@@ -20,15 +20,6 @@ To execute the code, please make sure that the following packages are installed:
 
 This function implements the GeoDA algorithm.
 
-The parameters of the function are:
-
-- `im`: image (tensor).
-- `net`: neural network.
-- `lb`: the lower bounds for the adversarial image values.
-- `ub`: the upper bounds for the adversarial image values.
-- `lambda_ `: the control parameter for going further into the classification region, by default = 3.
-- `max_iter`: max number of iterations, by default = 50.
-
 
 
 
