@@ -1,6 +1,6 @@
 # Geometric Decision-based Attack (GeoDA)
 
-This repository contains the official PyTorch implementation of GeoDA algorithm described in [1]. GeoDA is a Black-box attack to generate adversarial example for image classifiers.
+This repository contains the official PyTorch implementation of GeoDA algorithm described in [1]. GeoDA is a Black-box attack to generate adversarial example for image classifiers. GeoDA can provide query efficient attacks for different p norms.
 
 ## A few examples on the performance of the GeoDA for different norms
 
