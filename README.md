@@ -39,7 +39,7 @@ Contains some examples for the demos.
 
 ## Reference
 
-[1] Ali Rahmati, Seyed-Mohsen Moosavi-Dezfooli, Pascal Frossard, and Huaiyu Dai:
+[1] Ali Rahmati, Seyed-Mohsen Moosavi-Dezfooli, Pascal Frossard, and Huaiyu Dai,
 *GeoDA: a geometric framework for black-box adversarial attacks*. in CVF/IEEE Computer Vision and Pattern Recognition (CVPR'20), 2020.
 
 
