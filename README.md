@@ -40,5 +40,5 @@ Contains some examples for the demos.
 ## Reference
 
 [1] Ali Rahmati, Seyed-Mohsen Moosavi-Dezfooli, Pascal Frossard, and Huaiyu Dai,
-*GeoDA: a geometric framework for black-box adversarial attacks*. in CVF/IEEE Computer Vision and Pattern Recognition (CVPR'20), 2020. [arXiv](http://arxiv.org/abs/2003.06468)
+*GeoDA: a geometric framework for black-box adversarial attacks*. in CVF/IEEE Computer Vision and Pattern Recognition (CVPR'20), 2020. [[arXiv pre-print]](http://arxiv.org/abs/2003.06468)
 
