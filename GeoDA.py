@@ -272,7 +272,7 @@ def GeoDA(x_b, iteration, q_opt):
 
         grad_oi, ratios = black_grad_batch(x_b, q_opt[i], sigma, random_vec_o, grad_estimator_batch_size , orig_label)
         q_num = q_num + q_opt[i]
-        grad = 0.3*grad_oi + 0.7*grad
+        grad = grad_oi + grad
         x_adv, qs, eps = go_to_boundary(x_0, grad, x_b)
         q_num = q_num + qs
         x_adv, bin_query = bin_search(x_0, x_adv, tol)
